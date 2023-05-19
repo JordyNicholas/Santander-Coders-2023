@@ -2,4 +2,4 @@
 
 ## Alteração no README até aqui commitadas
 
-* uso do comando restorerqrq
+* uso do comando restore
